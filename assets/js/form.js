@@ -72,7 +72,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 removeError(messageInput);
             }
             
-            const webhookUrl = 'https://discord.com/api/webhooks/1344647043934720041/O3ntbB4JVmJ4_9vF6gU3bXyK6pi5vMWXU1cuLOIuyN808cqVbnEUdwxx3QWvpS1o5UUU';
+            const webhookUrl = 'https://discord.com/api/webhooks/1351245849212092456/cWvasMGeN0PJNo3j7n3rM51NtgxSCbLvQpHB1pLHKNMk5nr3rjYaB8jKHFRkHtD9QwzW';
             
             const embed = {
                 title: "New Contact Form Submission",
